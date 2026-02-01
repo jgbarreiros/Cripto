@@ -3,7 +3,7 @@
 📌 Português
 🧩 Descrição
 
-Cripto é um aplicativo desenvolvido em Python para criptografia e descriptografia de mensagens e arquivos, utilizando criptografia simétrica.
+Cripto é um aplicativo desenvolvido em Python para criptografia e descriptografia de mensagens, utilizando criptografia simétrica.
 O projeto tem como objetivo fornecer uma ferramenta simples, segura e intuitiva para proteger informações sensíveis.
 
 A interface gráfica é construída com CustomTkinter (ctk), enquanto os recursos criptográficos são implementados com a biblioteca cryptography.
@@ -36,7 +36,7 @@ Para uso em produção, recomenda-se uma análise de segurança mais aprofundada
 📌 English
 🧩 Description
 
-Cripto is an application developed in Python for encrypting and decrypting messages and files using symmetric cryptography.
+Cripto is an application developed in Python for encrypting and decrypting messages using symmetric cryptography.
 The goal of the project is to provide a simple, secure, and intuitive tool to protect sensitive information.
 
 The graphical interface is built with CustomTkinter (ctk), while cryptographic features are implemented using the cryptography library.
