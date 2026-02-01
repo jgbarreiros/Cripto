@@ -12,8 +12,6 @@ A interface gráfica é construída com CustomTkinter (ctk), enquanto os recurso
 
 🔒 Criptografia de mensagens de texto
 
-📂 Criptografia de arquivos
-
 🔑 Uso de criptografia simétrica (mesma chave para criptografar e descriptografar)
 
 🖥️ Interface gráfica amigável
@@ -44,8 +42,6 @@ The graphical interface is built with CustomTkinter (ctk), while cryptographic f
 ⚙️ Features
 
 🔒 Text message encryption
-
-📂 File encryption
 
 🔑 Symmetric cryptography (same key for encryption and decryption)
 
